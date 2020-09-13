@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://batla123:batla123@gameconnect.4bm9q.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "Shhhhhhhhhhhhhhhhhhhh"
+}
