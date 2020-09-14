@@ -1,10 +1,10 @@
 {
-  "name": "gameconnect",
+  "name": "devconnect",
   "version": "1.0.0",
-  "description": "Social Network for gamers",
+  "description": "Social Network for Developers",
   "main": "index.js",
   "scripts": {
-    "start": "node server",
+    "start": "node index",
     "server": "nodemon index"
   },
   "author": "Ananya Singh",

@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://batla123:batla123@gameconnect.4bm9q.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "Shhhhhhhhhhhhhhhhhhhh"
+  "jwtSecret": "Shhhhhhhhhhhhhhhhhhhh",
+  "githubClientId": "287212a1364bf3f58929",
+  "githubSecret": "c0a1f9db08620223d662149d31aa610a8ec95c47"
 }
