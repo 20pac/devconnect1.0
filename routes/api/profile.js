@@ -6,7 +6,6 @@ const Profile = require("../../models/Profile");
 const User = require("../../models/User");
 const auth = require("../../middleware/auth");
 const { check, validationResult } = require("express-validator");
-const { response } = require("express");
 
 //Get       api/profile/me
 //Access    private
