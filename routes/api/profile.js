@@ -20,6 +20,7 @@ router.get("/me", auth, async (req, res) => {
     if (!profile) {
       return res.status(400).send("Profile not found");
     }
+    res.send(profile);
   } catch (error) {
     console.error(error.message);
     res.status(500).send("Server Error");
